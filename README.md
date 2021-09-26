@@ -21,7 +21,7 @@ We have made it affordable with a decent quality and reliable health service.
   
 ## Tech Stack
 
-**Client:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript
+**Client:** HTML, CSS, JavaScript
 
 **Server:** PHP, XAMPP
 
@@ -45,6 +45,7 @@ We have made it affordable with a decent quality and reliable health service.
 <img src="https://github.com/Darsh15002/Physicap/blob/main/Inno/Screenshots/report.jpg" width="500" height="300" />
 <img src="https://github.com/Darsh15002/Physicap/blob/main/Inno/Screenshots/google_form.jpg" width="200" height="300" />
 <img src="https://github.com/Darsh15002/Physicap/blob/main/Inno/Screenshots/settings_page.jpg" width="500" height="300" />
+<img src="https://github.com/Darsh15002/Physicap/blob/main/Inno/Screenshots/qr_code.jpeg" width="200" height="300" />
 ## Authors
 
 - Darsh Kumar @(https://github.com/Darsh15002)
