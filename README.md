@@ -25,7 +25,8 @@ We have made it affordable with a decent quality and reliable health service.
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here )
+<img src="https://github.com/Darsh15002/Physicap/blob/main/Inno/Screenshots/home_page.jpg" width="300" height="300" />
+
 
   
 ## Authors
