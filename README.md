@@ -26,7 +26,7 @@ We have made it affordable with a decent quality and reliable health service.
 **Server:** PHP, XAMPP
 
 ## Physicap Introductory Video
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://youtu.be/KIuOZQB0vQE)](https://www.youtube.com/watch?v=VID)
   
 ## Screenshots
 
